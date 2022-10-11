@@ -1,2 +1,3 @@
-# Useful_code_repo
-Coooooodeeeeeeeeeeeee.
+# Python programming
+------------------------
+A repo in which I store my practice script, python projects and data structures and algorithms code ...
