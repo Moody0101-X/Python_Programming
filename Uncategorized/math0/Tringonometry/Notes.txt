@@ -1,0 +1,29 @@
+
+You can specify colors using a list you made or just use the premade list that I have
+defined in the variables modules.
+also you can use any mathematical function to, plot the points
+
+example:
+
+to plot: f(x) = 2x => y = 2x
+
+then: 
+
+x = [i for i in 100]
+y = [i*2 for i in x]
+
+and that plots 100 point.
+
+More generalized description:
+	=> f(x) = ax => y = ax {
+		x = [i for i in 100]
+		y = [i*a for i in x]
+}
+ploting the cos, sin, tan:
+from math import TRIDFUNCNAME, radians
+	=> sin(x) which is pre-defined. {
+	x = [i for i in 100]
+	y = [TRIGFUNCNAME(radians(i))]
+
+	TRIGFUNCNAME -> it might be sin or tan or cos
+}

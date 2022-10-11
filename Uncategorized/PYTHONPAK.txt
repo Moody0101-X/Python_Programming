@@ -1,0 +1,4 @@
+C:\Users\pc\AppData\Local\Programs\Python\Python39\Lib\site-packages\PyInstaller\hooks\hook-matplotlib.py
+
+
+I have hugs for everyone

@@ -1,0 +1,3 @@
+requests
+pafy
+youtube-dl

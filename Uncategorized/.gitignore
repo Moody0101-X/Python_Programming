@@ -1,0 +1,11 @@
+venv
+*.webm
+*.mp3
+*.mp4
+*.csv
+malitious/*.jpg
+malitious/*.png
+test.py
+keylogger.py
+dist
+build
