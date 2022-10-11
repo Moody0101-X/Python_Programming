@@ -1,3 +1,3 @@
 # Python programming
-------------------------
+_______________________
 A repo in which I store my practice script, python projects and data structures and algorithms code ...
